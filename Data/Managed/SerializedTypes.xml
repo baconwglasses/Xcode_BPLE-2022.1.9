@@ -1,0 +1,116 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="AchievementData/AchievementDescriptor" preserve="nothing" serialized="true"/>
+		<type fullname="AnimationHandler/AnimationInfo" preserve="nothing" serialized="true"/>
+		<type fullname="AnimationHandler/AnimationState" preserve="nothing" serialized="true"/>
+		<type fullname="AnimationHandler/TestKey" preserve="nothing" serialized="true"/>
+		<type fullname="AppInterfaceSidebar/SidebarElementData" preserve="nothing" serialized="true"/>
+		<type fullname="BuildConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="BundleDataObject" preserve="nothing" serialized="true"/>
+		<type fullname="BundleSelector" preserve="nothing" serialized="true"/>
+		<type fullname="CakeRace.CakeRaceInfo" preserve="nothing" serialized="true"/>
+		<type fullname="CakeRace.ObjectLocation" preserve="nothing" serialized="true"/>
+		<type fullname="CakeRace.StartInfo" preserve="nothing" serialized="true"/>
+		<type fullname="CakeRaceHUD/TimerModePair" preserve="nothing" serialized="true"/>
+		<type fullname="Challenge/IconPlacement" preserve="nothing" serialized="true"/>
+		<type fullname="ComicPlayer/ComicStrip" preserve="nothing" serialized="true"/>
+		<type fullname="ComicPlayer/SoundEffect" preserve="nothing" serialized="true"/>
+		<type fullname="CustomPartInfo" preserve="nothing" serialized="true"/>
+		<type fullname="DailyLevel" preserve="nothing" serialized="true"/>
+		<type fullname="DailyReward" preserve="nothing" serialized="true"/>
+		<type fullname="DailyRewardBundle" preserve="nothing" serialized="true"/>
+		<type fullname="e2dCurveMidpointPreset" preserve="nothing" serialized="true"/>
+		<type fullname="e2dCurveNode" preserve="nothing" serialized="true"/>
+		<type fullname="e2dCurvePerlinPreset" preserve="nothing" serialized="true"/>
+		<type fullname="e2dCurveTexture" preserve="nothing" serialized="true"/>
+		<type fullname="e2dCurveVoronoiPreset" preserve="nothing" serialized="true"/>
+		<type fullname="e2dCurveWalkPreset" preserve="nothing" serialized="true"/>
+		<type fullname="EpisodeLevelInfo" preserve="nothing" serialized="true"/>
+		<type fullname="EventProperty" preserve="nothing" serialized="true"/>
+		<type fullname="EventSender" preserve="nothing" serialized="true"/>
+		<type fullname="EventSender/Parameter" preserve="nothing" serialized="true"/>
+		<type fullname="FaceRotation/TargetInfo" preserve="nothing" serialized="true"/>
+		<type fullname="FeedingPrize" preserve="nothing" serialized="true"/>
+		<type fullname="LevelManager/CameraLimits" preserve="nothing" serialized="true"/>
+		<type fullname="LevelManager/PartCount" preserve="nothing" serialized="true"/>
+		<type fullname="LevelManager/ScoreLimits" preserve="nothing" serialized="true"/>
+		<type fullname="LevelRewardData/SandboxUnlock" preserve="nothing" serialized="true"/>
+		<type fullname="LevelSelector/OneTimeCutScene" preserve="nothing" serialized="true"/>
+		<type fullname="LoadObject" preserve="nothing" serialized="true"/>
+		<type fullname="LocalizationEntry" preserve="nothing" serialized="true"/>
+		<type fullname="LootWheel/WheelSlot" preserve="nothing" serialized="true"/>
+		<type fullname="MaterialAnimation/AnimationNode" preserve="nothing" serialized="true"/>
+		<type fullname="MaterialTexturePair" preserve="nothing" serialized="true"/>
+		<type fullname="MentalTools.Bezier" preserve="nothing" serialized="true"/>
+		<type fullname="MethodCaller" preserve="nothing" serialized="true"/>
+		<type fullname="MethodCaller/Parameter" preserve="nothing" serialized="true"/>
+		<type fullname="PartListData/PartIconData" preserve="nothing" serialized="true"/>
+		<type fullname="PartListData/PartIconRangeData" preserve="nothing" serialized="true"/>
+		<type fullname="PartListData/PartRangeData" preserve="nothing" serialized="true"/>
+		<type fullname="Pig/Expression" preserve="nothing" serialized="true"/>
+		<type fullname="PigExpressionSound" preserve="nothing" serialized="true"/>
+		<type fullname="PositionAnimator/AnimState" preserve="nothing" serialized="true"/>
+		<type fullname="PositionAnimator/ObjectState" preserve="nothing" serialized="true"/>
+		<type fullname="RaceLevels/LevelData" preserve="nothing" serialized="true"/>
+		<type fullname="RaceLevels/LevelUnlockablePartsData" preserve="nothing" serialized="true"/>
+		<type fullname="RaceLevels/UnlockableTier" preserve="nothing" serialized="true"/>
+		<type fullname="ResourceBarVisibilityConditions/ResourceBarItemCondition" preserve="nothing" serialized="true"/>
+		<type fullname="ResourceResolver/Binding" preserve="nothing" serialized="true"/>
+		<type fullname="SandboxLevels/LevelData" preserve="nothing" serialized="true"/>
+		<type fullname="SingletonSpawner/PlatformSingleton" preserve="nothing" serialized="true"/>
+		<type fullname="SplashScreenSequence/SplashFrame" preserve="nothing" serialized="true"/>
+		<type fullname="SpriteAnimation/Animation" preserve="nothing" serialized="true"/>
+		<type fullname="SpriteAnimation/FrameTiming" preserve="nothing" serialized="true"/>
+		<type fullname="SpriteFont/SpriteSymbol" preserve="nothing" serialized="true"/>
+		<type fullname="SpriteIconData/SpriteIcon" preserve="nothing" serialized="true"/>
+		<type fullname="TextDialog/LocalizeSprite" preserve="nothing" serialized="true"/>
+		<type fullname="TextDialog/SpriteScale" preserve="nothing" serialized="true"/>
+		<type fullname="TextDialog/TextKeyPair" preserve="nothing" serialized="true"/>
+		<type fullname="UIImageLocale/SpriteLocale" preserve="nothing" serialized="true"/>
+		<type fullname="VisibilityCondition/ConditionStruct" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.TextMeshPro">
+		<type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.KerningTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Sprite" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Style" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.IMGUIModule">
+		<type fullname="UnityEngine.GUIStyle" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.TextCoreFontEngineModule">
+		<type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
